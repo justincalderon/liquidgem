@@ -68,6 +68,14 @@ header p {
   color: #f3a9ba;
 }
 
+.aboutme p {
+  line-height: 25px;
+}
+
+.mywork p {
+  line-height: 25px;
+}
+
 .mywork h2 {
   margin-bottom: 50px;
   font-family: 'Pacifico', sans-serif;
