@@ -41,12 +41,43 @@ header h1 {
   margin-bottom: 5px;
 }
 
+header span {
+  color: #f3a9ba;
+}
+
 header p {
   font-family: 'Lato', sans-serif;
   text-align: center;
   margin-top: 0;
 }
 
-header span {
+.banner {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.banner img {
+  height: 400px;
+  width: 80%;
+  border-radius: 5px;
+}
+
+.aboutme h2 {
+  margin-bottom: 50px;
+  font-family: 'Pacifico', sans-serif;
   color: #f3a9ba;
+}
+
+.mywork h2 {
+  margin-bottom: 50px;
+  font-family: 'Pacifico', sans-serif;
+  color: #f3a9ba;
+}
+
+.aboutme, .mywork {
+  text-align: center;
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  padding: 75px 50px;
+  padding-left: 260px;
 }
